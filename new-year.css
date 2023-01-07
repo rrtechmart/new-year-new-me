@@ -92,6 +92,7 @@
 }
 .contact{
     width: 50%;
+    margin: 20px;
 }
 .subscribe{
     width: 50%;
@@ -117,4 +118,11 @@
     border-radius: 3px;
     color: red;
     font-weight: bold;
+}
+/* Styles reading section */
+.reading{
+    margin: 150px;
+}
+.students{
+    width: 95%;
 }
